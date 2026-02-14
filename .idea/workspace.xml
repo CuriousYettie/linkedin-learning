@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="906e3019-5138-4220-9f2e-5d74a0e6c959" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="39" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.5" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="396yCefcYZrq8pDO2ZwPhVqfPoR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FoundationalJavaInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceOfMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.linkedIn.course.chapter.abstraction.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.linkedIn.course.chapter.abstraction.challenge.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.linkedIn.course.chapter.first.challenge.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.org.linkedIn.course.chapter.inheritance.challenge.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.linkedIn.course.chapter.polymorphism.challenge.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.linkedIn.course.chapter.polymorphism.challenge.solution.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.linkedIn.course.chapter.polymorphism.runtime.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.linkedIn.course.chapter.second.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.linkedIn.course.chapter.second.challenge.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vanessadejager/development/github-portfolio/linkedIn/src/main/java/org/linkedIn/course/chapter/abstraction/challenge&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/vanessadejager/development/github-portfolio/linkedIn/src/main/java/Unknown/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecapSpentCounter">
+    <option name="endsOfQuotaMs" value="1772485200000" />
+    <option name="spentUsd" value="0.1269739" />
+  </component>
+  <component name="RecapUselessUpdatesCounter">
+    <option name="suspendCountdown" value="0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/linkedIn/course/chapter/abstraction/challenge" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/linkedIn/course/chapter/abstraction" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/linkedIn/course/chapter" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.linkedIn.course.chapter.polymorphism.challenge.solution" />
+      <recent name="org.linkedIn.course.chapter.polymorphism.compiletime" />
+      <recent name="org.linkedIn.course.chapter.polymorphism.runtime" />
+      <recent name="org.linkedIn.course.chapter.second" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.linkedIn.course.chapter.abstraction.challenge.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.linkedIn.course.chapter.abstraction.interfaces.Main" />
+      <module name="object-oriented-programming-principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.linkedIn.course.chapter.abstraction.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.linkedIn.course.chapter.abstraction.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.linkedIn.course.chapter.abstraction.Main" />
+      <module name="object-oriented-programming-principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.linkedIn.course.chapter.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.linkedIn.course.chapter.abstraction.challenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.linkedIn.course.chapter.abstraction.challenge.Main" />
+      <module name="object-oriented-programming-principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.linkedIn.course.chapter.abstraction.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.linkedIn.course.chapter.polymorphism.challenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.linkedIn.course.chapter.polymorphism.challenge.Main" />
+      <module name="object-oriented-programming-principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.linkedIn.course.chapter.polymorphism.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.linkedIn.course.chapter.polymorphism.challenge.solution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.linkedIn.course.chapter.polymorphism.challenge.solution.Main" />
+      <module name="object-oriented-programming-principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.linkedIn.course.chapter.polymorphism.challenge.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.linkedIn.course.chapter.abstraction.challenge.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.linkedIn.course.chapter.abstraction.Main" />
+        <item itemvalue="Application.org.linkedIn.course.chapter.polymorphism.challenge.solution.Main" />
+        <item itemvalue="Application.org.linkedIn.course.chapter.polymorphism.challenge.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="906e3019-5138-4220-9f2e-5d74a0e6c959" name="Changes" comment="" />
+      <created>1770030688952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770030688952</updated>
+      <workItem from="1770030690211" duration="28146000" />
+      <workItem from="1770835079605" duration="6900000" />
+      <workItem from="1771099176004" duration="12618000" />
+      <workItem from="1771113155356" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Unknown/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
